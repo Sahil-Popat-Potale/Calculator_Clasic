@@ -22,5 +22,5 @@
     <string name="equal">=</string>
 
     <string name="clear">Clear</string>
-    <string name="back">⋖</string>
+    <string name="back">⌫</string>
 </resources>

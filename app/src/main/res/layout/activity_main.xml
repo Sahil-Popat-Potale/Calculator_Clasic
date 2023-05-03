@@ -44,9 +44,8 @@
         android:layout_marginStart="7dp"
         android:layout_marginEnd="7dp"
         android:layout_marginBottom="15dp"
-        android:background="@color/white"
         android:text="@string/seven"
-        android:textColor="#090909" />
+        android:textColor="#100F0F" />
 
     <Button
         android:id="@+id/button8"
@@ -57,9 +56,8 @@
         android:layout_marginStart="7dp"
         android:layout_marginEnd="7dp"
         android:layout_marginBottom="15dp"
-        android:background="@color/white"
         android:text="@string/eight"
-        android:textColor="#090909" />
+        android:textColor="#100F0F" />
 
     <Button
         android:id="@+id/button9"
@@ -70,9 +68,8 @@
         android:layout_marginStart="7dp"
         android:layout_marginEnd="7dp"
         android:layout_marginBottom="15dp"
-        android:background="@color/white"
         android:text="@string/nine"
-        android:textColor="#090909" />
+        android:textColor="#100F0F" />
 
     <Button
         android:id="@+id/buttonDivide"
@@ -83,9 +80,8 @@
         android:layout_marginStart="7dp"
         android:layout_marginEnd="7dp"
         android:layout_marginBottom="15dp"
-        android:background="@color/white"
         android:text="@string/div"
-        android:textColor="#090909" />
+        android:textColor="#100F0F" />
 
     <Button
         android:id="@+id/button4"
@@ -96,9 +92,8 @@
         android:layout_marginStart="7dp"
         android:layout_marginEnd="7dp"
         android:layout_marginBottom="15dp"
-        android:background="@color/white"
         android:text="@string/four"
-        android:textColor="#090909" />
+        android:textColor="#100F0F" />
 
     <Button
         android:id="@+id/button5"
@@ -109,9 +104,8 @@
         android:layout_marginStart="7dp"
         android:layout_marginEnd="7dp"
         android:layout_marginBottom="15dp"
-        android:background="@color/white"
         android:text="@string/five"
-        android:textColor="#090909" />
+        android:textColor="#100F0F" />
 
     <Button
         android:id="@+id/button6"
@@ -122,9 +116,8 @@
         android:layout_marginStart="7dp"
         android:layout_marginEnd="7dp"
         android:layout_marginBottom="15dp"
-        android:background="@color/white"
         android:text="@string/six"
-        android:textColor="#090909" />
+        android:textColor="#100F0F" />
 
     <Button
         android:id="@+id/buttonMultiply"
@@ -135,9 +128,8 @@
         android:layout_marginStart="7dp"
         android:layout_marginEnd="7dp"
         android:layout_marginBottom="15dp"
-        android:background="@color/white"
         android:text="@string/mul"
-        android:textColor="#090909" />
+        android:textColor="#100F0F" />
 
     <Button
         android:id="@+id/button1"
@@ -148,9 +140,8 @@
         android:layout_marginStart="7dp"
         android:layout_marginEnd="7dp"
         android:layout_marginBottom="15dp"
-        android:background="@color/white"
         android:text="@string/one"
-        android:textColor="#090909" />
+        android:textColor="#100F0F" />
 
     <Button
         android:id="@+id/button2"
@@ -161,9 +152,8 @@
         android:layout_marginStart="7dp"
         android:layout_marginEnd="7dp"
         android:layout_marginBottom="15dp"
-        android:background="@color/white"
         android:text="@string/two"
-        android:textColor="#090909" />
+        android:textColor="#100F0F" />
 
     <Button
         android:id="@+id/button3"
@@ -174,9 +164,8 @@
         android:layout_marginStart="7dp"
         android:layout_marginEnd="7dp"
         android:layout_marginBottom="15dp"
-        android:background="@color/white"
         android:text="@string/three"
-        android:textColor="#090909" />
+        android:textColor="#100F0F" />
 
     <Button
         android:id="@+id/buttonMinus"
@@ -187,9 +176,8 @@
         android:layout_marginStart="7dp"
         android:layout_marginEnd="7dp"
         android:layout_marginBottom="15dp"
-        android:background="@color/white"
         android:text="@string/sub"
-        android:textColor="#090909" />
+        android:textColor="#100F0F" />
 
     <Button
         android:id="@+id/button00"
@@ -200,9 +188,8 @@
         android:layout_marginStart="7dp"
         android:layout_marginEnd="7dp"
         android:layout_marginBottom="20dp"
-        android:background="@color/white"
         android:text="@string/zero_zero"
-        android:textColor="#090909" />
+        android:textColor="#100F0F" />
 
     <Button
         android:id="@+id/button0"
@@ -213,9 +200,8 @@
         android:layout_marginStart="7dp"
         android:layout_marginEnd="7dp"
         android:layout_marginBottom="20dp"
-        android:background="@color/white"
         android:text="@string/zero"
-        android:textColor="#090909" />
+        android:textColor="#100F0F" />
 
     <Button
         android:id="@+id/buttonDot"
@@ -226,9 +212,8 @@
         android:layout_marginStart="7dp"
         android:layout_marginEnd="7dp"
         android:layout_marginBottom="20dp"
-        android:background="@color/white"
         android:text="@string/dot"
-        android:textColor="#090909" />
+        android:textColor="#100F0F" />
 
     <Button
         android:id="@+id/buttonPlus"
@@ -239,9 +224,8 @@
         android:layout_marginStart="7dp"
         android:layout_marginEnd="7dp"
         android:layout_marginBottom="20dp"
-        android:background="@color/white"
         android:text="@string/add"
-        android:textColor="#090909" />
+        android:textColor="#100F0F" />
 
     <Button
         android:id="@+id/buttonClear"
@@ -252,9 +236,8 @@
         android:layout_marginStart="7dp"
         android:layout_marginEnd="7dp"
         android:layout_marginBottom="20dp"
-        android:background="@color/white"
         android:text="@string/clear"
-        android:textColor="#090909" />
+        android:textColor="#100F0F" />
 
     <Button
         android:id="@+id/buttonBack"
@@ -265,9 +248,8 @@
         android:layout_marginStart="7dp"
         android:layout_marginEnd="7dp"
         android:layout_marginBottom="20dp"
-        android:background="@color/white"
         android:text="@string/back"
-        android:textColor="#090909" />
+        android:textColor="#100F0F" />
 
     <Button
         android:id="@+id/buttonEquals"
@@ -278,9 +260,8 @@
         android:layout_marginStart="7dp"
         android:layout_marginEnd="7dp"
         android:layout_marginBottom="20dp"
-        android:background="@color/white"
         android:text="@string/equal"
-        android:textColor="#090909" />
+        android:textColor="#100F0F" />
 
     <Button
         android:id="@+id/buttonModule"
@@ -291,8 +272,7 @@
         android:layout_marginStart="7dp"
         android:layout_marginEnd="7dp"
         android:layout_marginBottom="20dp"
-        android:background="@color/white"
         android:text="@string/module"
-        android:textColor="#090909" />
+        android:textColor="#100F0F" />
 
 </GridLayout>
